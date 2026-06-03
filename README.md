@@ -4,7 +4,7 @@
 
 ### Building Products, Not Just Projects
 
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=Full+Stack+Engineer;Laravel+%7C+Vue.js+%7C+MySQL;API+Integrations+%7C+Automation;Building+Production+Grade+Software;hema.codes" />
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=Full+Stack+Engineer;Laravel+Architect;Vue.js+Developer;API+Integration+Specialist;Building+Production+Grade+Software;hema.codes" />
 
 <br>
 
@@ -14,56 +14,112 @@
 
 <br><br>
 
-<img src="https://skillicons.dev/icons?i=laravel,vue,php,js,ts,mysql,postgres,docker,redis,linux,git,github,nginx,vscode" />
+<img src="https://skillicons.dev/icons?i=laravel,vue,php,js,ts,mysql,postgres,docker,redis,linux,git,github,nginx,vscode&perline=7" />
 
 </div>
 
 ---
 
-## 👨‍💻 About Me
+## ⚡ SYSTEM STATUS
 
-* ⚡ Full Stack Engineer
-* 🏗 Building SaaS products and business applications
-* 🔌 Experienced with APIs, automation, integrations, and multi-tenant systems
-* 🚀 Focused on scalable Laravel & Vue.js architectures
-* 🌐 Portfolio: **https://hema.codes**
+```bash
+$ whoami
+
+Hema Vasita
+
+Role:
+Full Stack Engineer
+
+Specialization:
+Laravel • Vue.js • SaaS Architecture
+
+Current Status:
+Building products used by real people
+
+Portfolio:
+https://hema.codes
+```
 
 ---
 
-## 🎯 Current Focus
+## 🎯 CURRENT OBJECTIVES
 
-* ✅ Production SaaS Development
-* ✅ API Integrations & Automation
-* ✅ Multi-Tenant Architectures
-* ✅ Performance Optimization
-* ✅ Cloud Deployments
-* 🔄 Launching My Own Micro SaaS
+| Status | Objective                     |
+| ------ | ----------------------------- |
+| 🟢     | Production SaaS Development   |
+| 🟢     | API Integrations & Automation |
+| 🟢     | Multi-Tenant Architectures    |
+| 🟢     | Performance Optimization      |
+| 🟢     | Cloud Infrastructure          |
+| 🟡     | Launching My Own Micro SaaS   |
 
 ---
 
-## 🛠 Tech Stack
+## ⚔️ WEAPON LOADOUT
+
+<div align="center">
 
 ### Backend
 
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge\&logo=laravel\&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge\&logo=php\&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge\&logo=mysql\&logoColor=white)
+<img src="https://skillicons.dev/icons?i=laravel,php,mysql,postgres" />
 
 ### Frontend
 
-![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge\&logo=vue.js\&logoColor=4FC08D)
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge\&logo=javascript)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge\&logo=typescript)
+<img src="https://skillicons.dev/icons?i=vue,js,ts" />
 
-### DevOps
+### Infrastructure
 
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge\&logo=docker)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge\&logo=redis)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge\&logo=linux\&logoColor=black)
+<img src="https://skillicons.dev/icons?i=docker,redis,linux,nginx,git,github" />
+
+</div>
 
 ---
 
-## 🔥 Contribution Activity
+## 🚀 FEATURED WORK
+
+### 🏢 Utility Billing Platform
+
+Production-grade platform for:
+
+* Consumer Management
+* Meter Readings
+* Automated Billing
+* Invoice Generation
+* Payment Tracking
+* Reporting & Analytics
+
+**Stack:** Laravel • Vue.js • MySQL
+
+---
+
+### 🔌 API Integration Systems
+
+Designed and implemented integrations involving:
+
+* OAuth Authentication
+* REST APIs
+* Webhooks
+* Background Processing
+* Third-Party Service Synchronization
+
+**Stack:** Laravel • Redis • Docker
+
+---
+
+### 🏗 Multi-Tenant SaaS Applications
+
+Built scalable systems supporting multiple organizations with:
+
+* Tenant Isolation
+* Role-Based Access Control
+* Subscription Logic
+* Reporting Dashboards
+
+**Stack:** Laravel • Vue.js • MySQL
+
+---
+
+## 🔥 CONTRIBUTION ACTIVITY
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=HemaVasita&theme=tokyo-night&hide_border=true" />
@@ -71,9 +127,13 @@
 
 ---
 
-## 🌐 Connect
+## 🌐 CONNECT
 
 <div align="center">
+
+<a href="https://hema.codes">
+<img src="https://img.shields.io/badge/Portfolio-hema.codes-00F7FF?style=for-the-badge" />
+</a>
 
 <a href="https://github.com/HemaVasita">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github" />
@@ -91,7 +151,7 @@
 
 ---
 
-## 💀 Philosophy
+## 💀 DEVELOPER PHILOSOPHY
 
 ```cpp
 while (alive)
