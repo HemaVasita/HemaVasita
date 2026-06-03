@@ -12,13 +12,26 @@
 
 <div align="center">
 
-# ⚡ CYBER.DEV.EXE ⚡
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=800&size=38&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=HEMA.CODES;FULL+STACK+ENGINEER;BUILDING+SYSTEMS+THAT+SCALE" />
 
-### FULL STACK ENGINEER • SYSTEM ARCHITECT • PROBLEM SOLVER
+<h3>
+⚡ Laravel • Vue.js • SaaS Architecture • DevOps ⚡
+</h3>
 
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Building+Production+Grade+Applications;Laravel+%7C+Vue.js+%7C+MySQL;API+Integrations+%7C+Automation;Always+Learning+New+Technologies;Deploy.+Optimize.+Scale." />
+<p>
+<a href="https://hema.codes">
+<img src="https://img.shields.io/badge/ENTER%20PORTFOLIO-hema.codes-00F7FF?style=for-the-badge&logo=firefoxbrowser&logoColor=white" />
+</a>
+</p>
 
-</div>
+```txt
+╔══════════════════════════════════════════════════════╗
+║  STATUS      : ONLINE                               ║
+║  LOCATION    : INDIA                                ║
+║  ROLE        : FULL STACK ENGINEER                  ║
+║  SPECIALTY   : BUILD • DEPLOY • AUTOMATE • SCALE    ║
+║  PORTFOLIO   : https://hema.codes                   ║
+╚══════════════════════════════════════════════════════╝
 
 ---
 
@@ -75,7 +88,8 @@ Current Quest:
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=HemaVasita&show_icons=true&theme=tokyonight&hide_border=true" />
+<!-- Under Construction
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=HemaVasita&show_icons=true&theme=tokyonight&hide_border=true" /> -->
 
 <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=HemaVasita&theme=tokyonight&hide_border=true" />
 
@@ -132,6 +146,6 @@ while(alive)
 
 ### 「 THERE IS NO BUG. ONLY UNDOCUMENTED FEATURES. 」
 
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=blueviolet&style=for-the-badge" />
+<img src="https://komarev.com/ghpvc/?username=HemaVasita&color=blueviolet&style=for-the-badge" />
 
 </div>
