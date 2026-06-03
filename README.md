@@ -1,119 +1,82 @@
-# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> HEMA VASITA // SYSTEM ONLINE
+<div align="center">
 
-### 🚀 Active Missions
+# ⚡ HEMA VASITA
 
-- ✅ Building production-ready SaaS applications
-- ✅ API Integrations & Automation
-- ✅ Multi-Tenant Architectures
-- ✅ Performance Optimization
-- ✅ Cloud Deployments
-- 🔄 Launching my own Micro SaaS
+### Building Products, Not Just Projects
+
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=Full+Stack+Engineer;Laravel+%7C+Vue.js+%7C+MySQL;API+Integrations+%7C+Automation;Building+Production+Grade+Software;hema.codes" />
+
+<br>
+
+<a href="https://hema.codes">
+  <img src="https://img.shields.io/badge/🚀_VISIT_PORTFOLIO-hema.codes-00F7FF?style=for-the-badge" />
+</a>
+
+<br><br>
+
+<img src="https://skillicons.dev/icons?i=laravel,vue,php,js,ts,mysql,postgres,docker,redis,linux,git,github,nginx,vscode" />
+
+</div>
+
+---
+
+## 👨‍💻 About Me
+
+* ⚡ Full Stack Engineer
+* 🏗 Building SaaS products and business applications
+* 🔌 Experienced with APIs, automation, integrations, and multi-tenant systems
+* 🚀 Focused on scalable Laravel & Vue.js architectures
+* 🌐 Portfolio: **https://hema.codes**
+
+---
+
+## 🎯 Current Focus
+
+* ✅ Production SaaS Development
+* ✅ API Integrations & Automation
+* ✅ Multi-Tenant Architectures
+* ✅ Performance Optimization
+* ✅ Cloud Deployments
+* 🔄 Launching My Own Micro SaaS
+
+---
+
+## 🛠 Tech Stack
+
+### Backend
+
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge\&logo=laravel\&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge\&logo=php\&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge\&logo=mysql\&logoColor=white)
+
+### Frontend
+
+![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge\&logo=vue.js\&logoColor=4FC08D)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge\&logo=javascript)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge\&logo=typescript)
+
+### DevOps
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge\&logo=docker)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge\&logo=redis)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge\&logo=linux\&logoColor=black)
+
+---
+
+## 🔥 Contribution Activity
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=HemaVasita&theme=tokyo-night&hide_border=true" />
+</p>
+
+---
+
+## 🌐 Connect
 
 <div align="center">
-  ### Building Products, Not Just Projects
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=800&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=Laravel+Developer;Vue.js+Engineer;API+Integration+Specialist;Building+Production+Grade+Software" />
-  
-  <h3>
-  ⚡ Laravel • Vue.js • SaaS Architecture • DevOps ⚡
-  </h3>
-  
-  <p>
-    <a href="https://hema.codes">
-      <img src="https://img.shields.io/badge/ENTER%20PORTFOLIO-hema.codes-00F7FF?style=for-the-badge&logo=firefoxbrowser&logoColor=white" />
-    </a>
-  </p>
-
-  <p align="center">
-      <table>
-          <tr>
-              <td>
-                  Status
-                  🟢 ONLINE
-              </td>
-              <td>
-                  Role
-                  ⚡ Full Stack Engineer
-              </td>
-              <td>
-                  Portfolio
-                  🚀 hema.codes
-              </td>
-          </tr>
-      </table>
-  </p>
-</div>
----
-
-## 🎮 PLAYER STATS
-
-<h2 align="center">🎮 PLAYER PROFILE</h2>
-
-<p align="center">
-
-⚡ Class: Full Stack Engineer<br>
-🛠 Main Stack: Laravel • Vue.js • MySQL<br>
-🏗 Focus: SaaS • APIs • Automation<br>
-🎯 Mission: Building products used by real people
-
-</p>
-
----
-
-## ⚙ TECH ARSENAL
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=laravel,vue,php,js,ts,mysql,postgres,docker,redis,git,github,linux,nginx,vscode" />
-
-</p>
-
----
-
-<h2 align="center">🚀 ACTIVE MISSIONS</h2>
-
-<p align="center">
-
-✅ Production SaaS Development<br>
-✅ API Integrations & Automation<br>
-✅ Multi-Tenant Architectures<br>
-✅ Performance Optimization<br>
-✅ Cloud Deployments<br>
-🔄 Launching My Own Micro SaaS
-
-</p>
-```
-
----
-
-## 📊 SYSTEM TELEMETRY
-
-<p align="center">
-
-<!-- Under Construction
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=HemaVasita&show_icons=true&theme=tokyonight&hide_border=true" /> -->
-
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=HemaVasita&theme=tokyonight&hide_border=true" />
-
-</p>
-
----
-
-## 🔥 CODE ACTIVITY MATRIX
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=HemaVasita&theme=tokyo-night&hide_border=true" />
-
-</p>
-
----
-
-## 🌐 NETWORK LINKS
-
-<p align="center">
 
 <a href="https://github.com/HemaVasita">
-<img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github" />
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github" />
 </a>
 
 <a href="https://linkedin.com/in/hema-vasita">
@@ -124,14 +87,14 @@
 <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail" />
 </a>
 
-</p>
+</div>
 
 ---
 
-## 💀 DEVELOPER PHILOSOPHY
+## 💀 Philosophy
 
 ```cpp
-while(alive)
+while (alive)
 {
     Learn();
     Build();
@@ -141,12 +104,10 @@ while(alive)
 }
 ```
 
----
-
 <div align="center">
 
-### 「 THERE IS NO BUG. ONLY UNDOCUMENTED FEATURES. 」
+### "There is no bug. Only undocumented features."
 
-<img src="https://komarev.com/ghpvc/?username=HemaVasita&color=blueviolet&style=for-the-badge" />
+<img src="https://komarev.com/ghpvc/?username=HemaVasita&style=for-the-badge" />
 
 </div>
