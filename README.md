@@ -1,63 +1,61 @@
 # <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> HEMA VASITA // SYSTEM ONLINE
 
-```txt
-> Boot Sequence Initiated...
-> Loading Developer Profile...
-> Status: ONLINE
-> Location: India
-> Role: Full Stack Engineer
-> Specialty: Laravel • Vue.js • APIs • SaaS Architecture
-> Mission: Building software that solves real-world problems.
-```
+### 🚀 Active Missions
+
+- ✅ Building production-ready SaaS applications
+- ✅ API Integrations & Automation
+- ✅ Multi-Tenant Architectures
+- ✅ Performance Optimization
+- ✅ Cloud Deployments
+- 🔄 Launching my own Micro SaaS
 
 <div align="center">
+  ### Building Products, Not Just Projects
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=800&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=Laravel+Developer;Vue.js+Engineer;API+Integration+Specialist;Building+Production+Grade+Software" />
+  
+  <h3>
+  ⚡ Laravel • Vue.js • SaaS Architecture • DevOps ⚡
+  </h3>
+  
+  <p>
+    <a href="https://hema.codes">
+      <img src="https://img.shields.io/badge/ENTER%20PORTFOLIO-hema.codes-00F7FF?style=for-the-badge&logo=firefoxbrowser&logoColor=white" />
+    </a>
+  </p>
 
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=800&size=38&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=HEMA.CODES;FULL+STACK+ENGINEER;BUILDING+SYSTEMS+THAT+SCALE" />
-
-<h3>
-⚡ Laravel • Vue.js • SaaS Architecture • DevOps ⚡
-</h3>
-
-<p>
-<a href="https://hema.codes">
-<img src="https://img.shields.io/badge/ENTER%20PORTFOLIO-hema.codes-00F7FF?style=for-the-badge&logo=firefoxbrowser&logoColor=white" />
-</a>
-</p>
-
-```txt
-╔══════════════════════════════════════════════════════╗
-║  STATUS      : ONLINE                               ║
-║  LOCATION    : INDIA                                ║
-║  ROLE        : FULL STACK ENGINEER                  ║
-║  SPECIALTY   : BUILD • DEPLOY • AUTOMATE • SCALE    ║
-║  PORTFOLIO   : https://hema.codes                   ║
-╚══════════════════════════════════════════════════════╝
-
+  <p align="center">
+      <table>
+          <tr>
+              <td>
+                  Status
+                  🟢 ONLINE
+              </td>
+              <td>
+                  Role
+                  ⚡ Full Stack Engineer
+              </td>
+              <td>
+                  Portfolio
+                  🚀 hema.codes
+              </td>
+          </tr>
+      </table>
+  </p>
+</div>
 ---
 
 ## 🎮 PLAYER STATS
 
-```yaml
-Name: Hema Vasita
-Class: Full Stack Developer
-Level: 99
-Main Weapons:
-  - Laravel
-  - Vue.js
-  - PHP
-  - JavaScript
-  - REST APIs
+<h2 align="center">🎮 PLAYER PROFILE</h2>
 
-Special Abilities:
-  - SaaS Development
-  - System Design
-  - Database Optimization
-  - API Integration
-  - Debugging Boss Fights
+<p align="center">
 
-Current Quest:
-  Building products that real users depend on.
-```
+⚡ Class: Full Stack Engineer<br>
+🛠 Main Stack: Laravel • Vue.js • MySQL<br>
+🏗 Focus: SaaS • APIs • Automation<br>
+🎯 Mission: Building products used by real people
+
+</p>
 
 ---
 
@@ -71,15 +69,18 @@ Current Quest:
 
 ---
 
-## 🚀 ACTIVE MISSIONS
+<h2 align="center">🚀 ACTIVE MISSIONS</h2>
 
-```txt
-[✓] Building production-ready SaaS applications
-[✓] API Integrations & Automation
-[✓] Multi-Tenant Architectures
-[✓] Performance Optimization
-[✓] Cloud Deployments
-[ ] Launching my own Micro SaaS
+<p align="center">
+
+✅ Production SaaS Development<br>
+✅ API Integrations & Automation<br>
+✅ Multi-Tenant Architectures<br>
+✅ Performance Optimization<br>
+✅ Cloud Deployments<br>
+🔄 Launching My Own Micro SaaS
+
+</p>
 ```
 
 ---
